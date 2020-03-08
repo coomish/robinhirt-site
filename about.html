@@ -3,12 +3,20 @@ title: About
 layout: page
 ---
 
-<img alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+<header class="header-home animated" align="center">
 
+<img alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+<br><br>
+<h1 class="title">{{ site.name }}</h1>
+<h2 class="description">{{ site.bio }}</h2>
+
+{% include social-links.html %} 
+</header><br>
+<p align="justify">I obtained my PhD at the Karlsruhe Institute of Technology (KIT) in applied artificial intelligence with a strong focus on meta and transfer machine learning technologies. While conducting my PhD, I worked on various data science and AI projects, published multiple papers to scientific outlets and was a visiting researcher at the MIT-IBM Watson AI Lab in Boston.</p>
 <p align="justify">
-I am a co-founder and co-ceo of prenode, a company enabling cross-organizational machine learning that keeps data private. My team and I are building a managed federated learning solution that enables to create ML on distributed data.
-I hold a PhD from KIT in applied AI, focussing on privacy-preserving transfer machine learning. Bringing ML and AI into the real world is my passion.
+To bring technical innovation into practice, I co-founded prenode GmbH with my friend and colleague Ronny as a spin-off from research. Here, my team and I develop a managed federated learning solution that incorporates cutting-edge algorithms to scale secure and distributed AI.
 </p>
+
 <div class="row">
 {% include about/timeline.html %}
 </div>

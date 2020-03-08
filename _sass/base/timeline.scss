@@ -1,0 +1,53 @@
+.timeline-body {
+	position: relative;
+	background-color: $light;
+	border-radius: 0 $rounded-borders $rounded-borders 0;
+    padding: 5px 0;
+	font-size: 13px;
+	h3 {
+		font-size: 14px;
+	}
+	h6 {
+		font-size: 13px;
+	}
+	&:after {
+        // Left Border
+		content: '';
+		width: 4px;
+		height: 100%;
+		background-color: rgb(219, 219, 219);
+		position: absolute;
+		left: -4px;
+		top: 0;
+    }
+    
+	.timeline-item {
+        position: relative;
+        
+		&:after {
+            // Circle
+			content: '';
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+			border: 0px solid $primary;
+			background-color: $primary;
+			position: absolute;
+			left: -8px;
+			top: 8px;
+			z-index: 10;
+        }
+        
+		.content {
+			margin: 20px; 
+			padding-bottom: 10px;
+            border-bottom: 1px dashed #bbb;
+
+            .date {
+                margin-top: -5px;
+                margin-bottom: 15px;
+                color: #6c757d;
+            }
+		}
+	}
+}

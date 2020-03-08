@@ -3,8 +3,20 @@
         {% if page.title != "Home" %}
             <li class="item">
 
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="link" href="{{ site.url }}/"><b>robinhirt.com</b></a>
             </li>
+        {% endif %}
+
+        {% if site.about == true %}
+            {% if page.title != "About" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">About</a>
+                </li>
+            {% else %}
+                <li class="item">
+                    <b><a class="link" href="{{ site.url }}/about">About</a></b>
+                </li>
+            {% endif %}
         {% endif %}
 
         {% if site.blog == true %}
@@ -42,17 +54,6 @@
             </li>
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
-                </li>
-            {% else %}
-                <li class="item">
-                    <b><a class="link" href="{{ site.url }}/about">About</a></b>
-                </li>
-            {% endif %}
-        {% endif %}
 
         <!-- {% if site.resume == true %}
             <li class="item">

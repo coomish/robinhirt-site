@@ -1,24 +1,11 @@
-# - title: Student, Harvard CS
-#   from: 2014
-#   to: 2018
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-# - title: Software Engineer, Google, UK
-#   from: 2018
-#   to: present
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- name: prenode GmbH
+  link: https://prenode.de
+  date: Nov 2018 - now
+  job: Co-Ceo and Co-Founder
+  description: "Our mission is to enable business ecosystems to securely exchange AI models without the fear of exposing information.
+  By doing so, we foster the creation of cross-organizational knowledge clusters to outperform isolated predictive models."
 
-
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: MIT IBM Watson AI Lab
   link: https://mitibmwatsonailab.mit.edu
   date: Feb 2019 - Mar 2019
@@ -26,14 +13,7 @@
   description: "Together with MIT IBM researchers I worked towards empirically identifying estimators for performance effects of transferring a ML model (prior to its transfer)."
 
 
-- name: prenode GmbH
-  link: https://prenode.de
-  date: Nov 2018 - now
-  job: CTO and Co-Founder
-  description: "Our mission is to enable business ecosystems to securely exchange AI models without the fear of exposing information.
-  By doing so, we foster the creation of cross-organizational knowledge clusters to outperform isolated predictive models."
-
-- name: Karlsruhe Institute of Technology, KSRI
+- name: Karlsruhe Institute of Technology
   link: http://www.kit.edu/
   date: Jan 2017 - Sept 2019
   job: Research Associate and PhD Candidate
