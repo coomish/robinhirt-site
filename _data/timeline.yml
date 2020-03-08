@@ -1,0 +1,61 @@
+# - title: Student, Harvard CS
+#   from: 2014
+#   to: 2018
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+# - title: Software Engineer, Google, UK
+#   from: 2018
+#   to: present
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: MIT IBM Watson AI Lab
+  link: https://mitibmwatsonailab.mit.edu
+  date: Feb 2019 - Mar 2019
+  job: Visiting Scholar
+  description: "Together with MIT IBM researchers I worked towards empirically identifying estimators for performance effects of transferring a ML model (prior to its transfer)."
+
+
+- name: prenode GmbH
+  link: https://prenode.de
+  date: Nov 2018 - now
+  job: CTO and Co-Founder
+  description: "Our mission is to enable business ecosystems to securely exchange AI models without the fear of exposing information.
+  By doing so, we foster the creation of cross-organizational knowledge clusters to outperform isolated predictive models."
+
+- name: Karlsruhe Institute of Technology, KSRI
+  link: http://www.kit.edu/
+  date: Jan 2017 - Sept 2019
+  job: Research Associate and PhD Candidate
+  description: "Research in applied AI about the enhancement of different machine learning techniques in business ecosystems.
+  Methods are instantiated and empirically evaluated in various application domains, such as sales forecasting, anomaly detecion in production lines, quality assurance for step-wise assembly and many more.
+  I am part of the Applied Lab@KSRI, a joint-venture between IBM and the KIT."
+
+- name: SAP AG
+  link: http://www.sap.de/
+  job: Working Student; Consulting
+  date: Feb 2016 - Jul 2016
+  description: "Consulting in Data Management Platform, e.g. Stream analyses in the area of Complex Event Processing (CEP) for network data monitoring, Analyses of applications for neuromorphic computing"
+
+- name: Karlsruhe Institute of Technology
+  link: http://www.kit.edu/
+  date: 2010 - 2016
+  job: B.Sc. and M.Sc.; Information Engineering and Management
+  description: "During my studies I focussed on nature-inspired algorithms, data science and machine learning. My master's thesis about the demographic analysis in social media through meta machine learning was further developed and published in the Electronic Markets."
+  #read_more: "https://doi.org/10.1007/s12525-019-00336-z"
+
+- name: Boğaziçi University
+  link: http://www.boun.edu.tr/
+  date: Aug 2015 - Jan 2016
+  job: Studies abroad; Computer Engineering
+  description: "I focussed on evolutionary dynamics and deepened my knowledgein nature-inspired optimization methods. Furthermore, I collaborated on a project for non-inversive wearable glucose measurements technolgy."

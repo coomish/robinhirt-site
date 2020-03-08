@@ -1,0 +1,41 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- ptitle: Cognitive computing for customer profiling - meta classification for gender prediction; 2019. Electronic markets.
+  info: Electronic markets.
+  date: 2019
+  authors: Hirt, R.; Kühl, N.; Satzger, G.
+
+- ptitle: Service Systems, Smart Service Systems and Cyber-Physical Systems - What’s the difference? Towards a Unified Terminology
+  info: 14. Internationale Tagung Wirtschaftsinformatik 2019 (WI 2019), Siegen, Germany, February 24-27
+  date: 2019
+  authors: Martin, D.; Hirt, R.; Kühl, N.
+
+- ptitle: Machine Learning in Artificial Intelligence - Towards a Common Understanding
+  info: Hawaii International Conference on System Sciences (HICSS-52), Grand Wailea, Maui, Hawaii, Januar 8-11, 2019
+  date: 2019
+  authors: Kühl, N.; Goutier, M.; Hirt, R.; Satzger, G.
+
+- ptitle: Cognition in the Era of Smart Service Systems - Inter-organizational Analytics through Meta and Transfer Learning
+  info: Thirty Ninth International Conference on Information Systems (ICIS), San Francisco, CA, USA, 13th-16th December 2018
+  date: 2018
+  authors: Hirt, R.; Kühl, N.
+
+- ptitle: Towards Service-oriented Cognitive Analytics for Smart Service Systems
+  info: Hawaii International Conference on System Sciences (HICSS-51), Waikoloa Village, Hawaii, United States, 3rd - 6th January 2018
+  date: 2018
+  authors: Hirt, R.; Kühl, N.; Schmitz, B.; Satzger, G.
+
+- ptitle: How to Cope With Incomplete Prediction Input? A Categorization of Techniques For Realizing Robust Analytics for Smart Service Systems
+  info: 3rd Karlsruhe Service Summit Research Workshop, Karlsruhe, Germany, 21st - 22nd September 2017
+  date: September 2017
+  authors: Hirt, R.
+
+- ptitle: Abbildung kognitiver Fähigkeiten mit Metamodellen
+  info: "INFORMATIK 2017, 47. Jahrestagung der Gesellschaft für Informatik, Chemnitz, Deutschland, 25. - 29. September 2017. Hrsg.: Maximilian Eib, 2301–2307, Gesellschaft für Informatik e.V., Bonn."
+  date: 2017
+  authors: Hirt, R.; Kühl, N.
+
+- ptitle: "An end-to-end process model for supervised machine learning classification: from problem to deployment in information systems"
+  authors: Hirt, R.; Kühl, N.; Satzger, G.
+  info: "Designing the Digital Transformation, DESRIST 2017 Research in Progress Proceedings of the 12th International Conference on Design Science Research in Information Systems and Technology, Karlsruhe, Germany, 30th May - 1st June 2017. Ed.: A. Mädche, 55–63, KIT, Karlsruhe"
+  date: 2017

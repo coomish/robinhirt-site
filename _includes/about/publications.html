@@ -1,0 +1,22 @@
+
+<div class="archive">
+  Feel free to connect on <a href="https://www.researchgate.net/profile/Robin_Hirt" class="social-link-item" target="_blank">Researchgate</a>.
+
+
+<div class="col mt-4">
+    <div class="timeline-body">
+      {% for publication in site.data.publications %}
+        <div class="timeline-item">
+          <div class="content">
+            <h3> {{ publication.ptitle }}</h3>
+            <h6 class="date">{{ publication.authors }}, {{ publication.date }}, {{ publication.info }}</h6>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  
+  
+
+
+

@@ -1,5 +1,6 @@
 .nav,
-.nav-home
+.nav-home,
+.nav-logo
     > .list
         list-style: none
         margin: 0
@@ -15,9 +16,29 @@
             padding: 20px 10px
             text-decoration: none
 
+.selfie-small
+    width: 30px
+    height: 30px
+    border-radius: 100%
+    padding: 0 13px 0
+    transition: all .2s
+    opacity: 1
+
 .nav
     position: absolute
-    right: 0
+    left: 0
+    top: 0
+
+    > .list
+        padding: 10px
+
+        > .item > .link
+            font-size: 1.4rem
+            padding: 20px 10px
+
+.nav-logo
+    position: absolute
+    left: 0
     top: 0
 
     > .list
@@ -26,11 +47,12 @@
         > .item > .link
             font-size: 1.4rem
             padding: 20px 10px
-
+    
+    
 .nav-home
     margin-top: 40px
     text-align: center
-
+    
     > .list
         padding: 0
 
@@ -43,3 +65,6 @@
 
             &:hover
                 color: $alpha
+
+        
+

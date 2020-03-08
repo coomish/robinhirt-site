@@ -1,0 +1,17 @@
+---
+title: About
+layout: page
+---
+
+<img alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+
+<p align="justify">
+I am a co-founder and co-ceo of prenode, a company enabling cross-organizational machine learning that keeps data private. My team and I are building a managed federated learning solution that enables to create ML on distributed data.
+I hold a PhD from KIT in applied AI, focussing on privacy-preserving transfer machine learning. Bringing ML and AI into the real world is my passion.
+</p>
+<div class="row">
+{% include about/timeline.html %}
+</div>
+
+
+
