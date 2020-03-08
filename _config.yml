@@ -44,7 +44,8 @@ show-tags: true
 related: true
 post-advance-links:
   - blog
-show-author: true
+analytics-google: 'UA-137274415-1'
+  show-author: true
 animation: true
 defaults:
   - scope:
