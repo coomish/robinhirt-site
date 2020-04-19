@@ -1,5 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- ptitle: Sequential Transfer Machine Learning in Networks - Measuring the Impact of Data and Neural Net Similarity on Transferability
+  info: arXiv preprint arXiv:2003.13070
+  date: 2020
+  authors: Hirt, R.; Srivastava, Akash; Berg, C.; Kühl, N.
+
 - ptitle: Half-empty or half-full? A Hybrid Approach to Predict Recycling Behavior of Consumers to Increase Reverse Vending Machine Uptime
   info: Lecture Notes in Business Information Processing
   date: 2020

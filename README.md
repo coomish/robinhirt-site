@@ -3,7 +3,7 @@
     This is the repository for the personal webpage of robin hirt. 
 </p>
 <p align="center">
-    <h2 align="center">Theme by Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> </h2>
+    <h2 align="center">Theme by Indigo Minimalist Jekyll Template</h2>
 </p>
 
 

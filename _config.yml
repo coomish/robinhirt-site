@@ -1,5 +1,5 @@
 name: Robin Hirt
-bio: 'Applied AI Enthusiast, Co-CEO & Co-Founder of prenode'
+bio: 'AI Enthusiast, Co-CEO & Co-Founder of prenode'
 description: >-
   Co-founder of prenode, a company enabling cross-organizational machine
   learning that keeps data private. I hold a PhD from KIT in applied AI,
@@ -25,7 +25,7 @@ email: robinhirt@gmail.com
 authors:
   robinhirt:
     name: Robin Hirt
-    bio: Applied AI Enthusiast, Co-Founder of prenode
+    bio: AI Enthusiast, Co-CEO and Co-Founder of prenode
     external-image: false
     picture: assets/images/profile.jpg
     twitter: robin_hirt
