@@ -53,6 +53,16 @@
                 <b><a class="link" href="{{ site.url }}/publications">Publications</a></b>
             </li>
         {% endif %}
+                    
+        {% if page.title != "Talks" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/talks">Talks & Presentations</a>
+            </li>
+        {% else %}
+            <li class="item">
+                <b><a class="link" href="{{ site.url }}/talks">Talks & Presentations</a></b>
+            </li>
+        {% endif %}
 
 
         <!-- {% if site.resume == true %}

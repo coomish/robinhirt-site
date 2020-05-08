@@ -1,0 +1,29 @@
+
+<div class="archive">
+  Sometimes I give talks and presentations about topics, such as privacy and AI, federated machine learning or applied machine learning in general. 
+  <br><br><br>
+
+<div class="col mt-4">
+    <div class="timeline-body">
+      {% for talk in site.data.talks %}
+        <div class="timeline-item">
+          <div class="content">
+            <h3> {{ talk.ptitle }}</h3>
+            <h6 class="date">{{ talk.authors }}, {{ talk.date }}, {{ talk.info }}</h6>
+            <p>
+              {% if talk.links %}         
+                {% for link in talk.links %}
+                <a href="{{ link.href }}" target="_blank">{{ link.name }}</a>
+                {% endfor %}
+              {% endif %}
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  
+  
+
+
+
