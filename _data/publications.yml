@@ -1,5 +1,15 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- ptitle: How to Learn from Others - Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting
+  info: IEEE International Conference on Business Informatics (CBI), IEEE
+  date: 2020
+  authors: Hirt, R.; Kühl, N.; Peker, Y.; Satzger, G.
+
+- ptitle: A network-based transfer learning approach to improve sales forecasting of new products
+  info: 2020. European Conference on Information Systems (ECIS) - Marrakech, Marocco, June 15 - 17
+  date: 2020
+  authors: Karb, T.; Kühl, N.; Hirt, R.; Glivici-Cotruță, V.
+
 - ptitle: Sequential Transfer Machine Learning in Networks - Measuring the Impact of Data and Neural Net Similarity on Transferability
   info: arXiv preprint arXiv:2003.13070
   date: 2020

@@ -1,4 +1,21 @@
 
+- ptitle: How to make a difference in data privacy with federated machine learning
+  info: Networking Event of "100 AI Talents", Fraunhofer IAO
+  date: June, 2020
+  authors: Hirt, R.
+  context: This keynote talk was part of the Fraunhofer networking event addressing future top talents in AI in Germany.
+  links: 
+  - href: https://www.iao.fraunhofer.de/lang-de/presse-und-medien/aktuelles/2239-100-ki-talente-fuer-kmu-im-laendle-gesucht.html
+    name: 100 AI Talents
+- ptitle: New ways to develop safe AI with federated machine learning
+  info: Meetup of the AI Labs Baden-Wuerttemberg
+  date: June, 2020
+  authors: Hirt, R.
+  context: Meetup talk as part of the program "AI Labs" fostering the diffusion of AI for SMEs in Germany.
+  links: 
+  - href: https://www.wirtschaft-digital-bw.de/service/ki-made-in-bw/regionale-ki-labs/
+    name: KI Labs Baden-Wuerttemberg
+
 - ptitle: Federated Machine Learning - Concepts and Applications
   info: Frankfurt Data Science
   date: April, 2020
@@ -8,19 +25,21 @@
   - href: https://www.meetup.com/de-DE/FrankfurtDataScience/events/265854027/
     name: Description of the event
   - href: https://federated-ml.carrd.co/
-    name: Carrd.co
+    name: Overview
 - ptitle: AI without data access is not possible? Yes it is!
   info: AI Monday
   date: February, 2020
   authors: Hirt, R.; Schüritz, R.
   links: 
-  - href:
+  - href: https://ai-monday.de/stuttgart-24-02-2020
+    name: AI Monday Website
 - ptitle: Machine Learning and Privacy - Is That Even Possible?
   info: Bunte Nacht der Digitalisierung
   date: October, 2019
   authors: Hirt, R.
   links: 
-  - href:
+  - href: https://www.techtag.de/digitalisierung/bunte-nacht-der-digitalisierung/karlsruher-it-szene-oeffnet-bei-der-bunten-nacht-der-digitalisierung-ihre-tore/
+    name: Bunte Nacht der Digitalisierung 2019
 - ptitle: Transferring AI Across Companies Without Sacrificing Data Privacy
   info: AIXIA - Artificial Intelligence meets Intelligence Artificiale, Karlsruhe
   date: October, 2019
