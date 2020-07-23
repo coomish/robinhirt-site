@@ -1,4 +1,21 @@
 
+- ptitle: How to create AI in Distributed Systems
+  info: Remote Brown Bag Session of ARIC
+  date: June, 2020
+  authors: Hirt, R.
+  context: This presentation was part of the Brown Bag Session of the Artificial Intelligence Center Hamburg e.V. (ARIC).
+  links: 
+  - href: https://github.com/aric-hamburg/remote-brown-bag-sessions
+    name: ARIC Remote Brown Bag Session Presentations
+  - href: https://www.aric-hamburg.de
+    name: Artificial Intelligence Center Hamburg e.V. (ARIC)
+
+- ptitle: Federated Machine Learning - Basics, Concepts and Challenges
+  info: Advanced training for ML specialists
+  date: July, 2020
+  authors: Hirt, R.
+  context: Training and educational session for data scientists and ML specialists for a German multinational conglomerate company
+
 - ptitle: How to make a difference in data privacy with federated machine learning
   info: Networking Event of "100 AI Talents", Fraunhofer IAO
   date: June, 2020
@@ -7,6 +24,7 @@
   links: 
   - href: https://www.iao.fraunhofer.de/lang-de/presse-und-medien/aktuelles/2239-100-ki-talente-fuer-kmu-im-laendle-gesucht.html
     name: 100 AI Talents
+    
 - ptitle: New ways to develop safe AI with federated machine learning
   info: Meetup of the AI Labs Baden-Wuerttemberg
   date: June, 2020
