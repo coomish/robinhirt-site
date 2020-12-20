@@ -1,3 +1,37 @@
+- ptitle: How to make robust AI possible without centralizing data - Using Federated Machine Learning to securely create AI
+  info: Cyber Security Conference 2020, Barockschloss Mannheim
+  date: October, 2020
+  authors: Hirt, R.
+  context: Keynote as part of the Cyber Security Conference.
+  links: 
+  - href: https://www.cybersecurityconference.de/index.php/programm-cybersecurity-conference-2020
+    name: Website of the event.
+
+- ptitle: Data Privacy and AI - Is that even possible?
+  info: Innovation Festival 2020, Karlsruhe
+  date: October, 2020
+  authors: Hirt, R.
+  context: Keynote as part of the Innovation Festival 2020 in Karlsruhe.
+  links: 
+  - href: https://www.youtube.com/watch?v=1J2Je0_1vug
+    name: Video of the keynote.
+  - href: https://karlsruhe.digital/innovationfestival/
+    name: Website of the event.
+
+- ptitle: Decentral Machine Learning for Industry 4.0
+  info: INFORMATIK 2020, Back2Future
+  date: October, 2020
+  authors: Hirt, R.
+  context: This short presentation was part of the annual INFORMATIK conference.
+  links: 
+  - href: https://gi.de
+    name: Gesellschaft für Informatik (GI)
+
+- ptitle: Federated Machine Learning - Basics, Concepts and Challenges
+  info: Advanced training for ML specialists
+  date: July, 2020
+  authors: Hirt, R.
+  context: Training and educational session for data scientists and ML specialists for a German multinational conglomerate company
 
 - ptitle: How to create AI in Distributed Systems
   info: Remote Brown Bag Session of ARIC
@@ -9,12 +43,6 @@
     name: ARIC Remote Brown Bag Session Presentations
   - href: https://www.aric-hamburg.de
     name: Artificial Intelligence Center Hamburg e.V. (ARIC)
-
-- ptitle: Federated Machine Learning - Basics, Concepts and Challenges
-  info: Advanced training for ML specialists
-  date: July, 2020
-  authors: Hirt, R.
-  context: Training and educational session for data scientists and ML specialists for a German multinational conglomerate company
 
 - ptitle: How to make a difference in data privacy with federated machine learning
   info: Networking Event of "100 AI Talents", Fraunhofer IAO
